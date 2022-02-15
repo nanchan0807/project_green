@@ -1,0 +1,10 @@
+「プル」して最新データを取得
+
+ローカルの変更内容を「add」して
+git add index.html
+
+インデックスをつけてファイルを「コミット」して
+git commit -m "Create index.html"
+
+ブランチに「コミット」する
+git push origin master
